@@ -1,2 +1,2 @@
-cd /data/data/com.termux/files/miraiv2
+cd /data/data/com.termux/files/home/miraiv2
 npm start
